@@ -1,0 +1,39 @@
+
+.bigDom {
+    position: absolute;
+    transform-origin: bottom center;
+    top: 52px;
+    left: 93px;
+    width: 9px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: black;
+  }
+  .middleDom {
+    position: absolute;
+    transform-origin: bottom center;
+    top: 30px;
+    left: 95px;
+    width: 5px;
+    height: 70px;
+    border-radius: 3px;
+    background-color: black;
+  }
+  .smallDom {
+    position: absolute;
+    transform-origin: bottom center;
+    top: 20px;
+    left: 97px;
+    width: 3px;
+    height: 80px;
+    border-radius: 2px;
+    background-color: black;
+  }
+  .time {
+    position: absolute;
+    left: 70px;
+    top: 40px;
+  }
+  #div{
+    padding-top: 10px;
+  }
